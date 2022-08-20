@@ -20,5 +20,5 @@ if (numberA < numberB)
 }
 else 
 {
-    Console.WriteLine($"{numberA} меньше {numberB}");
+    Console.WriteLine($"{numberB} меньше {numberA}");
 }
